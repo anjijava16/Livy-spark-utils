@@ -27,3 +27,6 @@ https://community.cloudera.com/t5/Community-Articles/How-to-Submit-Spark-Applica
 
 
 
+# Data Engineer Links
+1. https://github.com/Anant/example-elassandra-kafka-spark
+2. https://github.com/anomnaco/python_etl
