@@ -1,5 +1,10 @@
 # LivyDemo
-A Data Engineer's Lunch demo of Apache Livy
+
+# youtube
+1. https://www.youtube.com/watch?v=eZiglGrPH8M&list=PLmZzyjM-vqX7LvfN9vONdClnNxigeENw6
+
+
+# A Data Engineer's Lunch demo of Apache Livy
 
 https://github.com/anomnaco/python_etl
 
