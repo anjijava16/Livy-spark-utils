@@ -1,0 +1,9 @@
+Picked up JAVA_TOOL_OPTIONS: -Xmx2576m
+log4j:WARN No appenders could be found for logger (org.apache.livy.server.AccessManager).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.hadoop.security.authentication.util.KerberosUtil (file:/workspace/LivyDemo/apache-livy-0.7.1-incubating-bin/jars/hadoop-auth-2.7.3.jar) to method sun.security.krb5.Config.getInstance()
+WARNING: Please consider reporting this to the maintainers of org.apache.hadoop.security.authentication.util.KerberosUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
